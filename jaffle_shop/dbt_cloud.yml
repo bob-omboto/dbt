@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "ml118.us1.dbt.com"
+  active-project: "70471823509984"
+projects:
+  - project-name: "learning"
+    project-id: "70471823509984"
+    account-name: "robert.omboto@gmail.com"
+    account-id: "70471823496456"
+    account-host: "ml118.us1.dbt.com"
+    token-name: "cloud-cli-25a2"
+    token-value: "dbtu_Bsq22tMmG7PFupHCdWbLUy_iVaCJ7sxjX5FufJBellSoIeUpAk"
+
+
