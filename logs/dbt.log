@@ -1,0 +1,8 @@
+Installing dbt project and profile setup
+Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_1' instead
+Info Created .vscode/extensions.json with dbt extension recommendation
+Success Project created successfully!
+Info Project name: jaffle_shop_1
+Info Project directory: jaffle_shop_1
+Info Setting up your profile...
+Info Creating new profile...
