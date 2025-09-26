@@ -7,6 +7,6 @@ jaffle_shop:
       database: dbt-fusion-473311.dbt_romboto
       schema: dbt-fusion-473311.raw
       method: service-account
-      keyfile: '"C:\Users\Bob\Downloads\dbt-fusion-473311-afd2e4683848.json"'
-      location: us-east1
+      keyfile: C:\\Users\\Bob\\Downloads\\dbt-fusion-473311-afd2e4683848.json
+      location: us-eastus1
       dataproc_batch: null
